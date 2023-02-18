@@ -38,7 +38,6 @@ public class Day_02 {
 
     public static int devuelveValores (String entrada) {
 
-        int valor;
         switch (entrada) {
             case "AX":
                 return 4;
@@ -65,7 +64,6 @@ public class Day_02 {
     }
         public static int devuelveValoresparte2 (String entrada){
 
-            int valor;
             switch (entrada){
                 case "AX":
                     return 3;
